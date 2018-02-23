@@ -1,5 +1,8 @@
 # Functional utilities
 
+- [ThrowingFunction](http://docs.daplay.cl/jfun/cl/daplay/jfun/ThrowingFunction.html)
+- [ThrowingSupplier](http://docs.daplay.cl/jfun/cl/daplay/jfun/ThrowingSupplier.html)
+
 ## Installation
 
 ```xml
